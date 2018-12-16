@@ -1,0 +1,25 @@
+{
+  "name": "learning_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokemonfan7/learning_code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokemonfan7/learning_code/issues"
+  },
+  "homepage": "https://github.com/pokemonfan7/learning_code#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "pre-commit": "^1.2.2"
+  }
+}
